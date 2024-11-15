@@ -1,9 +1,6 @@
 const dictionary = [
-    "apple", "banana", "grape", "orange", "mango", "peach", "pear", "plum", "kiwi", "melon",
+  "banana", "grape", "orange", "mango", "peach", "pear", "plum", "kiwi", "melon",
     "strawberry", "blueberry", "raspberry", "blackberry", "pineapple", "coconut", "papaya",
-    "apricot", "pomegranate", "watermelon", "tangerine", "lime", "lemon", "cherry", "fig",
-    "date", "nectarine", "passionfruit", "guava", "dragonfruit", "cantaloupe", "honeydew","modeling"
-," helio"
     
 ];
 
